@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfujitsubo/herokupractice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jfujitsubo/herokupractice/issues"
+  },
+  "homepage": "https://github.com/jfujitsubo/herokupractice#readme"
 }
